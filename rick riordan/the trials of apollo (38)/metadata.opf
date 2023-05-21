@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ab38b86-e1fc-4465-a17a-163c94d00dbc</dc:identifier>
+        <dc:title>the trials of apollo</dc:title>
+        <dc:creator opf:file-as="riordan, rick" opf:role="aut">rick riordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Anthology containing:
+
+         The Hidden Oracle by Rick Riordan
+
+         The Dark Prophecy by Rick Riordan
+
+         The Burning Maze by Rick Riordan
+
+         The Tyrant's Tomb by Rick Riordan
+
+         The Tower of Nero by Rick Riordan</dc:description>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="trials of apollo, the"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

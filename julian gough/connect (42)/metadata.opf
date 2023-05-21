@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3867c3f6-c028-4cc9-8e2b-41b61815df34</dc:identifier>
+        <dc:title>connect</dc:title>
+        <dc:creator opf:file-as="gough, julian" opf:role="aut">julian gough</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-14T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;From the author of &lt;i&gt;Juno &amp;amp; Juliet&lt;/i&gt;, &lt;i&gt;Connect&lt;/i&gt; reboots the classic story of a family coming apart at the seams for our looming era of mass surveillance, virtual reality, and miraculous biotechnology.&lt;/b&gt;&lt;br&gt;In the Nevada desert, in the near future, a family crisis sets off a chain reaction that threatens to bring the networked world to its knees. It starts in the home of Naomi Chiang, a biologist and single mother struggling to balance her research with looking after her painfully awkward, homeschooled, ever-growing teenage son, Colt. Naomi worries about him constantly&amp;#8212;he's so socially inept that he struggles to order takeout pizza&amp;#8212;but then she has a major breakthrough at the lab that could change their lives, and America's future. For his part, Colt seems focused on one thing only: a globe-spanning immersive gameworld in which his phenomenal coding skills set him apart. But after his first real-life romantic encounter goes awry, he realizes mastery of...</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">5180cdcd-2efe-4f87-be18-e2711b432c04</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="connect"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

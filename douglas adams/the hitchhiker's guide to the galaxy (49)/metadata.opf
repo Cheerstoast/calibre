@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a683e810-31f2-46a5-b833-9ca34c0a56bc</dc:identifier>
+        <dc:title>the hitchhiker's guide to the galaxy</dc:title>
+        <dc:creator opf:file-as="adams, douglas" opf:role="aut">douglas adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-29T13:00:00+00:00</dc:date>
+        <dc:publisher>Macmillan Publishers UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781447220060</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B007FSBVY4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="hitchhiker's guide to the galaxy, the"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
